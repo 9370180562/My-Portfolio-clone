@@ -1,0 +1,1 @@
+Designed and developed a responsive personal portfolio using HTML, CSS, JavaScript, and React. Showcased projects, skills, and experience with smooth animations and optimized performance. Implemented reusable components and responsive design for better accessibility across devices
